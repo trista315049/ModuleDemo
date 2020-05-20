@@ -1,0 +1,6 @@
+rootProject.name='TestDemo'
+include ':app'
+include ':modulea'
+include ':moduleb'
+include ':comlib'
+include ':modulemain'
